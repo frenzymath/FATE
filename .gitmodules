@@ -1,0 +1,9 @@
+[submodule "FATE-M"]
+	path = FATE-M
+	url = https://github.com/frenzymath/FATE-M
+[submodule "FATE-H"]
+	path = FATE-H
+	url = https://github.com/frenzymath/FATE-H
+[submodule "FATE-X"]
+	path = FATE-X
+	url = https://github.com/frenzymath/FATE-X
