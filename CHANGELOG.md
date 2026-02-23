@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.0] - 2026-02-23
+
+### Added
+- Added support for all Lean minor versions from [v4.19.0] through [v4.28.0].
+
 ## [1.1.0] - 2026-02-23
 
 ### Added
@@ -38,6 +43,8 @@
   - A JSON file for machine reading.
 - Sunburst chart for domain statistics of FATE-H and FATE-X.
 
-[1.1.0]: https://github.com/frenzymath/FATE
+[v4.28.0]: https://github.com/frenzymath/FATE/tree/v4.28.0
+[v4.19.0]: https://github.com/frenzymath/FATE/tree/v4.19.0
+[1.1.0]: https://github.com/frenzymath/FATE/tree/40eff93d3fa8a06a73d67b28480d14bd28ec1c3c
 [1.0.1]: https://github.com/frenzymath/FATE/tree/129a05ce00002a6c73f4a2ad032a23e6c7a51189
 [1.0.0]: https://github.com/frenzymath/FATE/tree/initial-release
